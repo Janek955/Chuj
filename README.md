@@ -24,14 +24,10 @@ itd...
 <br>
 
 ## PRZEDROSTKI <br>
-  "m": "m" <br>
-  "mili": "m" <br>
-  "u": "µ" <br>
-  "mikro": "µ" <br>
-  "k": "k" <br>
-  "kilo": "k" <br>
-  "M": "M" <br>
-  "mega": "M" <br>
+  "m, mili" => "m" <br>
+  "u, mikro" => "µ" <br>
+  "k, kilo" => "k" <br>
+  "M, mega" => "M" <br>
   !!! jak żeś użył jednostek temperatury albo nie wstawiasz przedrostka to wstaw wać pan # !!!
 
 <br>
