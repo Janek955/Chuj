@@ -32,6 +32,7 @@ itd...
   "kilo": "k" <br>
   "M": "M" <br>
   "mega": "M" <br>
+  !!! jak żeś użył jednostek temperatury albo nie wstawiasz przedrostka to wstaw wać pan # !!!
 
 <br>
 
