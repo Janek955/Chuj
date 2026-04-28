@@ -34,7 +34,7 @@ itd...
 
 ## NIE WIEM JAK TO NAZWAĆ BO JESTEM ZMĘCZONY
 
-jak coś nie działa to mi powiedz ( mam to w piździe ) albo sam to napraw, będzie szybciej, tylko napisz co naprawiałeś <br>
+jak coś nie działa to mi powiedz ( i tak będe miał to w piździe ) albo sam to napraw, będzie szybciej, tylko napisz co naprawiałeś <br>
 
 Dzięki 
 
