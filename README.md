@@ -1,5 +1,7 @@
 # Templatka
 
+plik do ryswania wykresu powinien nazywać się data.txt <br>
+
 `NAZWA WYKRESU` <br>
 `NAZWA_X` `NAZWA_Y` <br>
 `JEDNOSTKA_X` `JEDNOSTKA_Y` <br>
