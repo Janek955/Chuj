@@ -1,3 +1,5 @@
+import string
+
 import matplotlib.pyplot as plt
 
 def format_unit(unit):
@@ -26,7 +28,15 @@ def format_prefix(prefix):
         "k": "k",
         "kilo": "k",
         "M": "M",
-        "mega": "M"
+        "mega": "M",
+        "T": "T",
+        "tera": "T",
+        "G": "G",
+        "giga": "G",
+        "n": "n",
+        "nano": "n",
+        "p": "p",
+        "pico": "p",
     }
 
     return mapping.get(prefix, prefix)
