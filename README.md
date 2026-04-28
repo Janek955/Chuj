@@ -1,4 +1,9 @@
-# Templatka
+# INSTRUKCJA
+
+żeby działało musisz dodać biblioteke matplotlib czy jakoś tak <br>
+wiesz co, wklej po prosu to w konsole `pip install matplotlib` i powinno chulać <br> 
+
+# TEMPLATKA
 
 plik do ryswania wykresu powinien nazywać się data.txt <br>
 
